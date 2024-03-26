@@ -28,6 +28,11 @@ SELECT *
 FROM TABLE 1
 WHERE A, B, C = Positive Integers
 ```
+![](Screenshot_20240325-164814.png)
+![](Screenshot_20240325-164915.png)
+![](Screenshot_20240325-165022.png)
+![](Screenshot_20240325-165315.png)
+![](Screenshot_20240325-165339.png)
 
 ## Result/Findings
 
