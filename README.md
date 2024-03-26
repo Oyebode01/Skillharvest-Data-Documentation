@@ -1,6 +1,20 @@
 # Skillharvest-Data-Documentation
 This is where i documented my project while learning Data Analysis with SkillHarvest
 
+ **Documentation Outline**
+ 
+- [Project Overview](#project-overview)
+ 
+- [Data Source](#data-source)
+
+- [Tools Used](#tools-used)
+
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+- [Data Analysis](#data-analysis)
+
+- [Result Findings](#result-findings)
+
 ## Project Overview
 This Project aims to generate insight into the sales performance of SkillHarvest stationary supplies by some sales representatives, some items and according to some region over the period of two stipulated years. by analysing the various parameters in the data received we seek to gather enough insight to make reseanable decisions which then enable us to tell compelling stories around our data from the insight we got and to kno the best performance from the data.
 
